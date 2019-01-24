@@ -1,0 +1,7 @@
+[
+  "scripts/test_setting.py::TestSearch::()::test_send",
+  "scripts/test_setting.py::TestSearch::()::test_send_sms[1]",
+  "scripts/test_setting.py::TestSearch::()::test_send_sms[2]",
+  "scripts/test_setting.py::TestSearch::()::test_send_sms[3]",
+  "scripts/test_setting.py::TestSearch::()::test_sms"
+]
